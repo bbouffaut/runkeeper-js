@@ -1,0 +1,44 @@
+{
+  "name": "runkeeper-js_bbo",
+  "version": "1.0.0",
+  "description": "RunKeeper HealthGraph API Client Library for Node.js + BBO modifs",
+  "author": {
+    "name": "Michael Owens + BBO",
+    "email": "mk@mowens.com + BBO",
+    "url": "http://mowens.com/"
+  },
+  "main": "./lib/runkeeper",
+  "dependencies": {
+    "request": ">= 1.9.0"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "keywords": [
+    "runkeeper",
+    "healthgraph",
+    "oauth",
+    "auth",
+    "authentication",
+    "api",
+    "wrapper",
+    "fitness"
+  ],
+  "scripts": {},
+  "_shasum": "4574fbe9d8e23b0aaeb0b2c7c2b0f76ffdc66d8c",
+  "_from": "runkeeper-js@*",
+  "_resolved": "https://registry.npmjs.org/runkeeper-js/-/runkeeper-js-1.0.0.tgz",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "2.3.0",
+  "_npmUser": {
+    "name": "mowens",
+    "email": "mk@mowens.com"
+  },
+  "maintainers": [
+    {
+      "name": "mowens + BBO",
+      "email": "mk@mowens.com"
+    }
+  ],
+  "directories": {}
+}
