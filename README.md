@@ -1,3 +1,11 @@
+BBO Updates
+==============================================================
+
+Implement following new functions:
+- getLoginUrl
+- revokeAccess
+
+
 RunKeeper.js (`runkeeper-js`) - RunKeeper HealthGraph API Client Library for Node.js
 ==============================================================
 
