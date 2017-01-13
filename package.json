@@ -1,6 +1,6 @@
 {
   "name": "runkeeper-js_bbo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "RunKeeper HealthGraph API Client Library for Node.js + BBO modifs",
   "author": {
     "name": "Michael Owens + BBO",
